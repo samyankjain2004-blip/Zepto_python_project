@@ -158,4 +158,7 @@ python zepto_analysis.py
 * Visualized seasonal or monthly growth patterns in sales.
 
 
+## 🔗 Connect with Me
+[LinkedIn Profile](www.linkedin.com/in/samyank-jain-b475b81aa)
+
 
